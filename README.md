@@ -2,8 +2,7 @@ Firebase Authentication Demo
 
 To ensure this project runs, you will need to manually install the following packages in the terminal
 
-1. npx install-expo-modules@latest
-2. npm init
+1. npm install expo
 3. npm install --save firebase
 4. npm install @react-navigation/native
 5. npm install @react-native-async-storage/async-storage
